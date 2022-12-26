@@ -3,8 +3,8 @@ const app = express();
 const map = new Map();
 const router =  express.Router();
 
-let attendance_Sheet = [] ;
 
+let attendance_Sheet = [] ;
 router.get('/attendance/:roll_no',(req,res)=>{
     map[req.params.roll_no] = req.params.roll_no;
     attendance_Sheet.unshift(req.params.roll_no);
