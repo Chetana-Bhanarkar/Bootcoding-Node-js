@@ -1,4 +1,7 @@
-class coursePackage{
+import { courseEnrollment } from "./courseEnrollment"
+import { course } from "./course"
+
+export class coursePackage{
     id : bigint
     package_name : string
     category_id : bigint

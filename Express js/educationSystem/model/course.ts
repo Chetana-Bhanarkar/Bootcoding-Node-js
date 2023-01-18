@@ -1,3 +1,5 @@
+import { coursePackage } from "./coursePackage"
+import { courseContent } from "./courseContent"
 
 export class course{
     id : bigint

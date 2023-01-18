@@ -1,4 +1,4 @@
-class user{
+export class user{
     id  : bigint
     user_name : string
     password  : string

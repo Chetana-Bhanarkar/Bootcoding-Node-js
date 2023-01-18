@@ -1,3 +1,5 @@
+import { course } from "./course"
+
 export class courseContent{
     id:bigint
     topics_name : string
