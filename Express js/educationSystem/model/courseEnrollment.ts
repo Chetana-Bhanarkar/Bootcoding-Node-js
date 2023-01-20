@@ -5,7 +5,7 @@ export class courseEnrollment{
     id : bigint
     enrollment_date : Date
     enrollment_no : bigint
-    student_id : bigint;
+    student_id : bigint
     created_date : Date
     created_by : string
     modified_date : Date
