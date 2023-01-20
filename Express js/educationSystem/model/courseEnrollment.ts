@@ -10,4 +10,6 @@ export class courseEnrollment{
     created_by : string
     modified_date : Date
     modified_by : string
+    student : Student
+    coursePackage : coursePackage
 }
