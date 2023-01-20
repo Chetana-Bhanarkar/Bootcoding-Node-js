@@ -6,6 +6,7 @@ export class studentProfile{
     degree_name : string
     working_status : string
     date_of_birth : Date
+    leetcode_url : string
     github_url : string
     linkedIn_url : string
     created_date : Date
