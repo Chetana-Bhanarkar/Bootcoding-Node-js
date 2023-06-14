@@ -1,7 +1,7 @@
 const config = {
     host: "localhost",
     user: "root",
-    password: "Chetana@2706",
+    password: "******",
     database: "bootcoding"
   }
   
